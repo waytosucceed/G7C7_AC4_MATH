@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Monthly income of Lisa is 102/71. Lisa used 41/71 of her monthly income to pay rent and 21/71 on groceries. How much of her income is left with Lisa now?",
+        "options": [
+            "40/71",
+            "61/71",
+            "163/71",
+            "82/71"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Alex and his sister both completed 58/67 and 52/67 respectively of their homework. How much of the homework did they complete together?",
+        "options": [
+            "6/67",
+            "110/67",
+            "1/67",
+            "None of them"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Jane used 16/24 of her monthly salary to pay bills. What is this fraction in simplest form?",
+        "options": [
+            "1/3",
+            "2/3",
+            "1/4",
+            "2/4"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Emma drank 71/98 of a glass of juice and her brother drank 17/98 of the same glass. How much juice was consumed in total?",
+        "options": [
+            "98/88",
+            "88/98",
+            "87/98",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Mike solved 90/95 of the maths problems correctly. What is this fraction in simplest form?",
+        "options": [
+            "18/19",
+            "19/18",
+            "1/19",
+            "1/18"
+        ],
+        "correct": 0
+    }
+]
